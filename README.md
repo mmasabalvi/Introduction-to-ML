@@ -1,4 +1,4 @@
 # Introduction-to-ML
 
-Datasets which I used, when learning ML.
+Projects I worked on, when learning ML.
 
